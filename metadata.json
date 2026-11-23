@@ -1,0 +1,8 @@
+{
+  "name": "AI Personal Chatbot Explainer Studio",
+  "description": "60-second cinematic technology explainer storyboard, real-time interactive preview, and Gemini Omni Flash video generator for the AI Personal Chatbot project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
